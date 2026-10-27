@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Nelithma">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Nelithma" />
   </a>
 </p>
 
