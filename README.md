@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Nelithma">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m Nelithma" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Nelithmaa" alt="Hello! I&#39;m Nelithmaa" />
   </a>
 </p>
 
@@ -63,18 +63,3 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Nelithma">Nelithma</a></i></p>
-
-<!--
-**Nelithma/Nelithma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
